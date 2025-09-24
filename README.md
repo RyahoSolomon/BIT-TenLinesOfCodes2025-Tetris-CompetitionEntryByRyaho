@@ -1,4 +1,4 @@
-### BIT-TenLinesOfCodes2025-Tetris-CompetitonEntryByRyaho
+### BIT-TenLinesOfCodes2025-Tetris-CompetitionEntryByRyaho
 # 北京理工大学 十行代码2025 俄罗斯方块赛道 参赛作品
 本游戏采用c++和其支持的一个教学用简易图形库”easyx”实现,编写时间为2025年3月底
   
